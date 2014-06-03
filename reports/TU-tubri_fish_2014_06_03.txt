@@ -1,0 +1,91 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 781
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Thailand ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 5
+	Date: 2014-05-09 ; Times: 1
+	Date: 2014-05-12 ; Times: 1
+	Date: 2014-05-13 ; Times: 7
+	Date: 2014-05-14 ; Times: 1
+	Date: 2014-05-15 ; Times: 1
+	Date: 2014-05-16 ; Times: 9
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 1
+	Date: 2014-05-28 ; Times: 5
+	Date: 2014-05-29 ; Times: 1
+	Date: 2014-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bryconamericus scleroparius" ; Times: 1
+	Query: "Mustelus" ; Times: 1
+	Query: "Pteronotropis hubbsi" ; Times: 4
+	Query: "crystallaria asprella" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "Satan eurystomus" ; Times: 2
+	Query: "stateprovince:"Mississippi" specificepithet:olivaceus genus:Fundulus" ; Times: 6
+	Query: "Poecilia sphenops" ; Times: 3
+	Query: "esox americanus americanus stateprovince:"new york" year >= 1940 year <= 1980" ; Times: 1
+	Query: "Glen Rose" ; Times: 2
+	Query: "Synbranchidae" ; Times: 5
+	Query: "megalotis arkansas" ; Times: 1
+	Query: "notropis hubbsi" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(32.99945000822839,-120.23025512695312))<8170.3746424486" ; Times: 1
+	Query: "arenatus" ; Times: 1
+	Query: "esox americanus stateprovince:"new york" year >= 1940 year <= 1980" ; Times: 1
+	Query: "Trogloglanis" ; Times: 1
+	Query: "Rhinichthys cataractae dulcis" ; Times: 1
+	Query: "esox americanus stateprovince:"new york" year >= 1800 year <= 1950" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1679 download events in this period)
+Total number of records downloaded: 41 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 41
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-16 ; Times: 2
+	Date: 2014-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Zacatecas" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "Satan eurystomus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 89
+Total number of records retrieved from searches: 1232
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 39207
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 89
+Total number of records retrieved from searches: 1232
+Number of download events that retrieved data from the resource: 10
+Total number of records downloaded: 39207
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
