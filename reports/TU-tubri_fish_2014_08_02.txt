@@ -1,0 +1,119 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 311
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Costa Rica ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 4
+	Date: 2014-07-02 ; Times: 2
+	Date: 2014-07-06 ; Times: 7
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-14 ; Times: 1
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-18 ; Times: 2
+	Date: 2014-07-19 ; Times: 2
+	Date: 2014-07-20 ; Times: 2
+	Date: 2014-07-21 ; Times: 2
+	Date: 2014-07-22 ; Times: 1
+	Date: 2014-07-23 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-27 ; Times: 1
+	Date: 2014-07-28 ; Times: 4
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amia calva michigan" ; Times: 1
+	Query: "institutioncode:tu" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:olmstedi genus:etheostoma year >= 1935 year <= 1950" ; Times: 1
+	Query: "homo" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 1
+	Query: "subviridis" ; Times: 2
+	Query: "TU 97492" ; Times: 1
+	Query: "Synbranchus" ; Times: 1
+	Query: "mycteroperca rosacea" ; Times: 1
+	Query: "murder" ; Times: 8
+	Query: "TU Fish 97492" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:blennioides genus:etheostoma" ; Times: 2
+	Query: "micrura" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:flabellare genus:etheostoma year >= 1950 year <= 1955" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:maculata genus:percina year >= 1940 year <= 1980" ; Times: 1
+	Query: "catalognumber:180528 mappable:1" ; Times: 2
+	Query: "Vipera" ; Times: 3
+	Query: "stateprovince:"new york" specificepithet:nigrum genus:etheostoma year >= 1935 year <= 1950" ; Times: 1
+	Query: "Nexilosus latifrons" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:exile genus:etheostoma" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "trichomycterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 437 download events in this period)
+Total number of records downloaded: 971 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 970
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 9
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-15 ; Times: 9
+	Date: 2014-07-18 ; Times: 4
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Macropus" ; Times: 1
+	Query: "Nexilosus latifrons" ; Times: 1
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Chromis atrilobata" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Stegastes rectifraenum" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "mycteroperca rosacea" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 137
+Total number of records retrieved from searches: 1635
+Number of download events that retrieved data from the resource: 32
+Total number of records downloaded: 43903
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 137
+Total number of records retrieved from searches: 1635
+Number of download events that retrieved data from the resource: 32
+Total number of records downloaded: 43903
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
