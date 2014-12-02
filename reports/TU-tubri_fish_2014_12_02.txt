@@ -1,0 +1,71 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 258
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-12 ; Times: 1
+	Date: 2014-11-13 ; Times: 2
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-21 ; Times: 3
+	Date: 2014-11-22 ; Times: 1
+	Date: 2014-11-24 ; Times: 2
+	Date: 2014-11-25 ; Times: 2
+	Date: 2014-11-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "oncorhynchus clarki" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 2
+	Query: "(oncorhynchus clarki) year >= 1800 year <= 1970" ; Times: 1
+	Query: "micropogonias undulatus" ; Times: 1
+	Query: "Etheostoma stateprovince:"Alabama" specificepithet:Zonifer" ; Times: 1
+	Query: "Notropis blennius" ; Times: 1
+	Query: "poeciliopsis retropinna" ; Times: 3
+	Query: ""credit river"" ; Times: 1
+	Query: "type:specimen county:"lauderdale" stateprovince:"alabama" (Cypress)" ; Times: 1
+	Query: "perca fluviatilis" ; Times: 2
+	Query: "clupea" ; Times: 1
+	Query: "Etheostoma stateprovince:"Alabama" specificepithet:zonifer" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 227
+Total number of records retrieved from searches: 2822
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 44224
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 227
+Total number of records retrieved from searches: 2822
+Number of download events that retrieved data from the resource: 45
+Total number of records downloaded: 44224
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
