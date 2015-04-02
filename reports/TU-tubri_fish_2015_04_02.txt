@@ -1,0 +1,78 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 370
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-11 ; Times: 4
+	Date: 2015-03-15 ; Times: 5
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Xiphophorus montezumae" ; Times: 1
+	Query: "sardina country:"nicaragua"" ; Times: 1
+	Query: "oklahoma chickasaw" ; Times: 3
+	Query: "Evans stateprovince:"New York"" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "percina palmaris tulane" ; Times: 1
+	Query: "county:"Sumter" stateprovince:"Alabama"" ; Times: 2
+	Query: "Percina palmaris alabama terrapin" ; Times: 1
+	Query: "Willseyville county:"Tioga" stateprovince:"New York"" ; Times: 1
+	Query: "Holtbyrnia innesi" ; Times: 2
+	Query: "Percina palmaris" ; Times: 1
+	Query: "racoon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 298 download events in this period)
+Total number of records downloaded: 781 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 781
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 285
+Total number of records retrieved from searches: 4027
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 2361
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 322
+Total number of records retrieved from searches: 4666
+Number of download events that retrieved data from the resource: 79
+Total number of records downloaded: 47421
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
