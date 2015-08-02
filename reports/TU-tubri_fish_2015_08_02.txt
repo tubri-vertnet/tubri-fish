@@ -1,0 +1,224 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 2115
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 31
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 140
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 3
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 48
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 21
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-11 ; Times: 7
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 5
+	Date: 2015-07-15 ; Times: 9
+	Date: 2015-07-16 ; Times: 7
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 10
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-27 ; Times: 9
+	Date: 2015-07-28 ; Times: 13
+	Date: 2015-07-29 ; Times: 3
+	Date: 2015-07-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "190161" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "CCA" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "phtheirichthys gulf" ; Times: 1
+	Query: "ruvettus gulf" ; Times: 1
+	Query: "Cyprinella gibbsi tallapoosa river" ; Times: 3
+	Query: "stateprovince:"Oklahoma" specificepithet:camura genus:Cyprinella" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "carangoides equula" ; Times: 2
+	Query: "14299" ; Times: 4
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "155398" ; Times: 1
+	Query: "naucrates ductor gulf" ; Times: 1
+	Query: "Cyprinella caerulea" ; Times: 19
+	Query: "33125" ; Times: 1
+	Query: "sipsey wilderness" ; Times: 2
+	Query: "drepane punctata" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "155329" ; Times: 1
+	Query: "178475" ; Times: 1
+	Query: "institutioncode:TU" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "stateprovince:"new york" genus:margariscus year >= 1850 year <= 2014" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama TU" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina"" ; Times: 1
+	Query: "decapterus gulf" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 1
+	Query: "167529" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "naucrates gulf" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "county:"McCormick" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "chascanopsetta gulf" ; Times: 2
+	Query: "catalognumber:186681" ; Times: 1
+	Query: "thryssa setirostris" ; Times: 3
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "191043" ; Times: 1
+	Query: "carapidae gulf" ; Times: 1
+	Query: "Cyprinella caerulea Alabama" ; Times: 2
+	Query: "95651" ; Times: 1
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "county:"Clinton" stateprovince:"Illinois"" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "catalognumber:190336" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "bankhead national forest" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "catalognumber:164049" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "183420" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "Cyprinella gibbsi" ; Times: 14
+	Query: "62178" ; Times: 1
+	Query: "Periophthalmus saudi arabia" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "alectis gulf" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "catalognumber:127640" ; Times: 2
+	Query: "catalognumber:500" ; Times: 1
+	Query: "Mexico specificepithet:Olivaris genus:pylodictis" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:margarita year >= 1850 year <= 2014" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Cyprinella Caerulea alabama" ; Times: 3
+	Query: "chaetodon nigropunctatus" ; Times: 1
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "elagatis gulf" ; Times: 1
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "pellona ditchella" ; Times: 1
+	Query: "Periophthalmus kuwait" ; Times: 1
+	Query: "155432" ; Times: 1
+	Query: "seriola gulf" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdi" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "127639 type:specimen" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "tenualosa ilisha" ; Times: 1
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "Scartelaos tenuis" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 20
+	Query: "stateprovince:"Oklahoma" specificepithet:cragini genus:Etheostoma" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1084 download events in this period)
+Total number of records downloaded: 18093 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 9415
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Guanajuato" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 648
+Total number of records retrieved from searches: 7106
+Number of download events that retrieved data from the resource: 72
+Total number of records downloaded: 31698
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 685
+Total number of records retrieved from searches: 7745
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 76758
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
