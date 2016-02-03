@@ -1,0 +1,139 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 601
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 48
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-26 ; Times: 4
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 4
+	Date: 2015-11-28 ; Times: 2
+	Date: 2015-11-17 ; Times: 5
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-03 ; Times: 3
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 25
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "74990" ; Times: 1
+	Query: "type:specimen specificepithet:oblongus genus:Erimyzon stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "specificepithet:pilsbryi genus:notropis" ; Times: 1
+	Query: "30141" ; Times: 1
+	Query: "anacanthobatis folirostris" ; Times: 1
+	Query: "176579" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "umbrina canariensis" ; Times: 2
+	Query: "94563" ; Times: 1
+	Query: "johnius vogleri" ; Times: 1
+	Query: "176575" ; Times: 1
+	Query: "M-141746" ; Times: 1
+	Query: "institutioncode:TU" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "28850" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "M-141749" ; Times: 1
+	Query: "10993" ; Times: 1
+	Query: "187218" ; Times: 1
+	Query: "umbrina ronchus" ; Times: 1
+	Query: "leptophilypnus" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "neopomacentrus sindensis" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "176578" ; Times: 2
+	Query: "fundulus grandis" ; Times: 3
+	Query: "33465" ; Times: 2
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "176592" ; Times: 1
+	Query: "33462" ; Times: 2
+	Query: "pike county missouri" ; Times: 2
+	Query: "28860" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "locality:Pine Hills stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "locality:Zacapa" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "falciformis" ; Times: 1
+	Query: "176891" ; Times: 2
+	Query: "176585" ; Times: 1
+	Query: "cosmocampus gulf" ; Times: 1
+	Query: "176587" ; Times: 1
+	Query: "176586" ; Times: 1
+	Query: "fish locality:rock creek stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "176582" ; Times: 1
+	Query: "141749" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+	Query: "11531" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 751 download events in this period)
+Total number of records downloaded: 204128
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "institutioncode:TU" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
