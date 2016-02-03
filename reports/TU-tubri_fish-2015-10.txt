@@ -1,0 +1,117 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 390
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-02 ; Times: 8
+	Date: 2015-10-23 ; Times: 6
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-18 ; Times: 5
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "etheostoma nuchale" ; Times: 1
+	Query: "family:goodeidae stateprovince:&#34;aguascalientes&#34;" ; Times: 7
+	Query: "12739" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "heptranchias" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "15205" ; Times: 1
+	Query: "distance(location,geopoint(34.75308453644101,-88.78463745117188))&lt;12808" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "coldwater county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(34.75308453644101,-88.78463745117188))&lt;4110.173808837546" ; Times: 1
+	Query: "126521" ; Times: 1
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "distance(location,geopoint(34.75308453644101,-88.78463745117188))&lt;6905" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "Simpson Rd" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "etheostoma boschungi" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "GL TL" ; Times: 5
+	Query: "100002" ; Times: 1
+	Query: "naranjo costa rica" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "genus:hypentelium county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 823 download events in this period)
+Total number of records downloaded: 693
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "family:goodeidae stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+
+
+End of report.
