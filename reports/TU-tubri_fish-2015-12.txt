@@ -1,0 +1,113 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 758
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 8
+	Date: 2015-12-07 ; Times: 13
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 7
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pristis pectinata" ; Times: 2
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "Etheostoma denoncourti" ; Times: 1
+	Query: "126225" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "113810" ; Times: 1
+	Query: "amblyopsis edmonson" ; Times: 3
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "leptophilypnus" ; Times: 1
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "zebrafish" ; Times: 2
+	Query: "torpedo" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "typhlichthys edmonson" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "county:&#34;Chicot&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "155921" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "106669" ; Times: 1
+	Query: "louisiana shreveport" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "gbifdatasetid:961f602a-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Erimystax cahni" ; Times: 1
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "Percina rex" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "73952" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 889 download events in this period)
+Total number of records downloaded: 20299
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+
+
+End of report.
