@@ -1,0 +1,139 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 36
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 5
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-19 ; Times: 9
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "etheostoma vulneratum" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 1
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "Noturus eleutherus" ; Times: 1
+	Query: "etheostoma osburni" ; Times: 2
+	Query: "gobiomorus maculatus" ; Times: 2
+	Query: "stateprovince:&#34;Oklahoma&#34; year &gt;= 1898 year &lt;= 1900" ; Times: 1
+	Query: "genus:Etheostoma county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "family:Eleotridae country:&#34;United States&#34;" ; Times: 1
+	Query: "etheostoma stigmaeum 108775" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepidomeda" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "etheostoma jessiae" ; Times: 1
+	Query: "percina nasuta" ; Times: 4
+	Query: "velifera" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Catostomus year &gt;= 1978 year &lt;= 1978 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "etheostoma stigmaeum lee county" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 507 download events in this period)
+Total number of records downloaded: 144323
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 17
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-05 ; Times: 12
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Astyanax mexicanus Texas type:specimen year &gt;= 2000 year &lt;= 2016" ; Times: 2
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
