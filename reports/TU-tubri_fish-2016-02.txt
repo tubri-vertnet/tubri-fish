@@ -1,0 +1,119 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 513
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 34
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-06 ; Times: 6
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-16 ; Times: 13
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bucharest" ; Times: 1
+	Query: "Etheostoma obeyense" ; Times: 3
+	Query: "30149" ; Times: 1
+	Query: "Istiophoridae" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "wasp" ; Times: 1
+	Query: "louisiana union" ; Times: 4
+	Query: "homo" ; Times: 1
+	Query: "203090" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "amia calva" ; Times: 5
+	Query: "Chirolophis nugator" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "6260-63" ; Times: 1
+	Query: "Semicossyphus pulcher" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "amblyopsis" ; Times: 1
+	Query: "st andrews fl" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 2
+	Query: "46719" ; Times: 1
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "mississippi yazoo" ; Times: 1
+	Query: "Hyperprosopon ellipticum" ; Times: 1
+	Query: "sphyrna tiburo" ; Times: 3
+	Query: "amblyopsis kentucky" ; Times: 2
+	Query: "county:&#34;Corson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "felis channel islands" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "Sebastes serriceps" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "percina sipsi" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 3
+	Query: "33755" ; Times: 1
+	Query: "92828" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 512 download events in this period)
+Total number of records downloaded: 853
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "percina sipsi" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Acipenser oxyrhynchus" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Idaho" ; Times: 2
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
