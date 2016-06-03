@@ -1,0 +1,117 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 3483
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 3
+	Country: United States ; Times: 47
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 5
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 7
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-31 ; Times: 17
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-29 ; Times: 3
+	Date: 2016-05-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "Pterois miles" ; Times: 2
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:mazatlanus genus:Achirus" ; Times: 3
+	Query: "specificepithet:tetrophthalmus genus:Hippoglossina" ; Times: 3
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 8
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 5
+	Query: "1375 county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "family:Belonidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "catalognumber:199499" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "catalognumber:199497" ; Times: 1
+	Query: "family:Profundulidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "187364" ; Times: 1
+	Query: "family:Heptapteridae class:Actinopterygii country:&#34;NIcaragua&#34;" ; Times: 1
+	Query: "catalognumber:199498" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "lampetra minima" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "gbifdatasetid:961f602a-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "catalognumber:199501" ; Times: 1
+	Query: "catalognumber:199502" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "411 county:&#34;Sampson&#34;" ; Times: 2
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "catalognumber:199500" ; Times: 1
+	Query: "specificepithet:gilberti genus:Citharichthys" ; Times: 3
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "family:Batrachoididae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 327 download events in this period)
+Total number of records downloaded: 776
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-31 ; Times: 6
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Clupeidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 5
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "family:Batrachoididae class:Actinopterygii country:&#34;Panama&#34;" ; Times: 1
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+
+
+End of report.
