@@ -1,0 +1,109 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 1266
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 51
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 6
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-09 ; Times: 1
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-05 ; Times: 28
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-24 ; Times: 5
+	Date: 2016-09-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "Mistichthys luzonensis" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "specificepithet:petenense genus:Dorosoma" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "Pylodictis Arizona" ; Times: 3
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "118309" ; Times: 2
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "137925" ; Times: 1
+	Query: "specificepithet:pinnatibarbatus genus:Cheilopogon" ; Times: 1
+	Query: "Parachromis motaguensis" ; Times: 3
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:papillifer genus:Gobiesox" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "Amatitlania nigrofasciata" ; Times: 1
+	Query: "specificepithet:dubius genus:Scarus" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "140930" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "R-185165" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "specificepithet:elater genus:Zalieutes" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "99447" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:rectifraenum genus:Stegastes" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "hybognathus amarus" ; Times: 2
+	Query: "Pylodictis arizona" ; Times: 2
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 811 download events in this period)
+Total number of records downloaded: 165
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pylodictis Arizona" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.
