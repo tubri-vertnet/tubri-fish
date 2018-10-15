@@ -1,0 +1,218 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 1342
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 38
+	Country: United States ; Times: 174
+	Country: Israel ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 51
+	Country: Czechia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 30
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 28
+	Date: 2018-02-06 ; Times: 72
+	Date: 2018-02-05 ; Times: 26
+	Date: 2018-02-21 ; Times: 14
+	Date: 2018-02-20 ; Times: 20
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 21
+	Date: 2018-02-27 ; Times: 8
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-28 ; Times: 6
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Rivulidae" ; Times: 3
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 4
+	Query: "196013" ; Times: 1
+	Query: "county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(41.249543719,-91.097801958))&lt;7151" ; Times: 5
+	Query: "specificepithet:alberti genus:Hydrolagus" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "156047" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 19
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "anderson 1860" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 4
+	Query: "guadalupe specificepithet:mykiss" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "142457" ; Times: 1
+	Query: "distance(location,geopoint(45.0141613725,-95.721651943))&lt;22000" ; Times: 4
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "institutioncode:TU" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "(19137)" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 4
+	Query: "108688" ; Times: 1
+	Query: "Sicydium hildebrandi mappable:1" ; Times: 1
+	Query: "Glossogobius hoesei mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "Acanthurus leucopareius" ; Times: 1
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 4
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 4
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "scientificname:&#34;notropis albizonatus&#34;" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Mylopharyngodon piceus" ; Times: 3
+	Query: "114020" ; Times: 1
+	Query: "196029" ; Times: 2
+	Query: "distance(location,geopoint(29.6813868145715,-93.8737874025))&lt;3529" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "174405" ; Times: 1
+	Query: "Awaous tajasica mappable:1" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 16
+	Query: "183292" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 4
+	Query: "Rhexipanchax" ; Times: 1
+	Query: "ablabes" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 6
+	Query: "123022" ; Times: 1
+	Query: "catalognumber:15887 institutioncode:TU" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 2
+	Query: "distance(location,geopoint(43.6229870615001,-93.336362792))&lt;26599" ; Times: 4
+	Query: "distance(location,geopoint(45.2418074925,-96.361536155))&lt;7570" ; Times: 4
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 4
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "139594" ; Times: 1
+	Query: "catalognumber:172267" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 4
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 4
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.8326516995,-96.396880085))&lt;7628" ; Times: 4
+	Query: "Hydrolagus Alberti" ; Times: 1
+	Query: "specificepithet:clarkii genus:Dactylobatus" ; Times: 1
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 2
+	Query: "family:aplocheilidae country:&#34;Panama&#34;" ; Times: 1
+	Query: "&#34;Mylopharyngodon piceus&#34;" ; Times: 24
+	Query: "specificepithet:cirratum genus:Ginglymostoma" ; Times: 2
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "fish locality:Duck River stateprovince:&#34;Tennessee&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "Glossogobius celebius mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 4
+	Query: "distance(location,geopoint(29.6889056257145,-93.874815028586))&lt;3430" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "146501" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "183644" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "HE Evans stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "specificepithet:crocodilus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "goodea atripinnis" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 4
+	Query: "75244" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 4
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 4
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1892 download events in this period)
+Total number of records downloaded: 8550
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "fish locality:Duck River stateprovince:&#34;Tennessee&#34; year &gt;= 1988 year &lt;= 2018" ; Times: 1
+
+
+End of report.
