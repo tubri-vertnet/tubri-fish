@@ -1,0 +1,81 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 219
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 6
+	Date: 2017-11-29 ; Times: 26
+	Date: 2017-11-26 ; Times: 3
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "47996" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "kisutch genus:Oncorhynchus stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "45176" ; Times: 1
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "196376" ; Times: 1
+	Query: "Parupeneus macronema" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "108105" ; Times: 3
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;North Carolina&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "Parupeneus pleurostigma" ; Times: 1
+	Query: "genus:Percina family:Percidae county:&#34;Transylvania&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "(marmorata 1992)" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Pseudupeneus porphyreus" ; Times: 2
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 2
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Upeneus sp. mappable:1" ; Times: 1
+	Query: "Upeneus sp." ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "specificepithet:zonale genus:Etheostoma stateprovince:&#34;North Carolina&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1101 download events in this period)
+Total number of records downloaded: 176
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:salmonidae" ; Times: 1
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;North Carolina&#34; year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "kisutch genus:Oncorhynchus stateprovince:&#34;Oregon&#34;" ; Times: 1
+
+
+End of report.
