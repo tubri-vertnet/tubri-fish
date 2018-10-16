@@ -1,0 +1,259 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 2100
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 147
+	Country: Honduras ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 19
+	Date: 2018-04-24 ; Times: 42
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-02 ; Times: 7
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-06 ; Times: 11
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-12 ; Times: 36
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-11 ; Times: 5
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-14 ; Times: 3
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "104565" ; Times: 1
+	Query: "rio pesqueria" ; Times: 2
+	Query: "Lake mendota" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "105820" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "Micropterus floridanus" ; Times: 3
+	Query: "34929" ; Times: 2
+	Query: "scientificname:(Catostomus ardens) country:United States mappable:1" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34; institutioncode:TU" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "A-31936" ; Times: 1
+	Query: "lepidomeda mollispinis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "scientificname:(Moxostoma valenciennesi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "puntius titteya" ; Times: 1
+	Query: "Dane wisconsin notropis" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 3
+	Query: "catostomus discobolus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "29688" ; Times: 1
+	Query: "scientificname:(Etheostoma camurum) country:United States mappable:1" ; Times: 1
+	Query: "123043" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "cyprinodon macularius stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "wisconsin crawford" ; Times: 1
+	Query: "agosia chrysogaster chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "poeciliopsis occidentalis occidentalis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "91909" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 1
+	Query: "fish zacatecas" ; Times: 1
+	Query: "hankinson" ; Times: 1
+	Query: "101256" ; Times: 1
+	Query: "79965" ; Times: 1
+	Query: "143527" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;McCormick&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "scientificname:(Margariscus nachtriebi) country:United States mappable:1" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "Sebastes hopkinsi" ; Times: 1
+	Query: "catalognumber:203219" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 3
+	Query: "113300" ; Times: 1
+	Query: "134173" ; Times: 1
+	Query: "fieldnumber:4972" ; Times: 1
+	Query: "catalognumber:106087" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Newberry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:(Catostomus tahoensis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "meda fulgida stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "72648" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catostomus insignis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "109416" ; Times: 1
+	Query: "111267" ; Times: 1
+	Query: "scientificname:(Polyodon spathula) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus clarkii OR Catostomus clarki) country:United States mappable:1" ; Times: 1
+	Query: "marcus county:&#34;escambia&#34;" ; Times: 2
+	Query: "16232" ; Times: 1
+	Query: "poeciliopsis occidentalis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "class:Actinopterygii county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "profundulus" ; Times: 1
+	Query: "Mylossoma duriventre" ; Times: 1
+	Query: "lepidomeda mollispinis mollispinis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:203271" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "catalognumber:203273" ; Times: 1
+	Query: "gila robusta stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catostomus discobolus discobolus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "176468" ; Times: 1
+	Query: "gila cypha stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Dane wisconsin fish" ; Times: 1
+	Query: "scientificname:(Etheostoma cragini) country:United States mappable:1" ; Times: 1
+	Query: "Notropis topeka mappable:1" ; Times: 12
+	Query: "Rio pesqueria" ; Times: 8
+	Query: "catostomus sp. stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "89909" ; Times: 1
+	Query: "county:&#34;Saint James&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 6
+	Query: "gila seminuda stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:89907" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 1
+	Query: "county:&#34;mcnairy&#34;" ; Times: 1
+	Query: "scientificname:(Notropis girardi) country:United States mappable:1" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "lepidomeda vittata stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "scientificname:(Catostomus insignis) country:United States mappable:1" ; Times: 2
+	Query: "132507" ; Times: 1
+	Query: "oncorhynchus apache stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "catalognumber:98212" ; Times: 2
+	Query: "scientificname:(Gila pandora) country:United States mappable:1" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:dumeril genus:squatina" ; Times: 1
+	Query: "catostomus sp. 3 stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catostomus latipinnis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "31224" ; Times: 1
+	Query: "gila purpurea stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "120009" ; Times: 1
+	Query: "Actinopterygii zacatecas" ; Times: 1
+	Query: "xyrauchen texanus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "133784" ; Times: 1
+	Query: "Gila cypha" ; Times: 1
+	Query: "agosia chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "75025" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "rhinichthys osculus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "scientificname:(Cottus beldingii OR Cottus beldingi) country:United States mappable:1" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "mccarley" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "gila cypha" ; Times: 1
+	Query: "V. fulva" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1359 download events in this period)
+Total number of records downloaded: 7807
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Brazil ; Times: 33
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Hemiancistrus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
