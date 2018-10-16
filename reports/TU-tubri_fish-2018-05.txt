@@ -1,0 +1,219 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1332
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 161
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Morocco ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 9
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 14
+	Date: 2018-05-25 ; Times: 8
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-07 ; Times: 18
+	Date: 2018-05-04 ; Times: 14
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-02 ; Times: 6
+	Date: 2018-05-03 ; Times: 11
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 5
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 26
+	Date: 2018-05-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(42.6495013578174,-85.3872811613869))&lt;14725" ; Times: 2
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 2
+	Query: "distance(location,geopoint(41.249543719,-91.097801958))&lt;7151" ; Times: 2
+	Query: "Dysommina" ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "scientificname:(Elassoma alabamae) country:United States mappable:1" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 2
+	Query: "genus:Amphilophus" ; Times: 2
+	Query: "typhlichthys" ; Times: 2
+	Query: "brama dussumieri" ; Times: 1
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "genus:Typhlichthys locality:Shelta" ; Times: 2
+	Query: "distance(location,geopoint(45.0141613725,-95.721651943))&lt;22000" ; Times: 2
+	Query: "distance(location,geopoint(45.0141512276285,-95.9688083927552))&lt;7555" ; Times: 1
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "distance(location,geopoint(44.8222615935063,-93.8939967936303))&lt;26036" ; Times: 2
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "specificepithet:molango genus:Herichthys family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 2
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "40447" ; Times: 2
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "specificepithet:sieboldii genus:Cichlasoma" ; Times: 1
+	Query: "155132" ; Times: 1
+	Query: "genus:Vieja" ; Times: 1
+	Query: "east texas wildlife" ; Times: 1
+	Query: "scientificname:(Acipenser oxyrinchus OR Acipenser oxyrynchus OR Acipenser oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:pame genus:Herichthys family:Cichlidae" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "distance(location,geopoint(46.8583067090001,-96.349728037))&lt;28673" ; Times: 2
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "genus:Archocentrus" ; Times: 1
+	Query: "tyler J B" ; Times: 1
+	Query: "specificepithet:sieboldii family:Cichlidae institutioncode:TU" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "distance(location,geopoint(46.8326516995,-96.396880085))&lt;7628" ; Times: 2
+	Query: "distance(location,geopoint(45.2418073976384,-96.3615879541276))&lt;21471" ; Times: 2
+	Query: "distance(location,geopoint(42.9787039604825,-89.428143815909))&lt;9675" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "distance(location,geopoint(43.6229870615001,-93.336362792))&lt;26599" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "distance(location,geopoint(45.2418074925,-96.361536155))&lt;7570" ; Times: 2
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "class:Actinopterygii county:&#34;matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "specificepithet:latifrons genus:Andinoacara" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "Louisiana black bear" ; Times: 1
+	Query: "distance(location,geopoint(37.161975188785,-93.6952926072649))&lt;11285" ; Times: 2
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "genus:Caquetaia" ; Times: 1
+	Query: "specificepithet:pame family:Cichlidae institutioncode:TU" ; Times: 1
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "Zebrafish" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:molango family:Cichlidae institutioncode:TU" ; Times: 1
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "distance(location,geopoint(37.248560757269,-93.6952372778328))&lt;11263" ; Times: 3
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "distance(location,geopoint(43.9302007876938,-93.1386640465672))&lt;22744" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "catalognumber:203840" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "Apogon retrosella" ; Times: 2
+	Query: "scientificname:(Scaphirhynchus suttkusi) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "specificepithet:ornatum family:Cichlidae" ; Times: 1
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1178 download events in this period)
+Total number of records downloaded: 51267
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
