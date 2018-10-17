@@ -1,0 +1,206 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 953
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 146
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 20
+	Date: 2018-06-05 ; Times: 11
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 11
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 6
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 27
+	Date: 2018-06-20 ; Times: 13
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-22 ; Times: 5
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-13 ; Times: 14
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 8
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "95500" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "distance(location,geopoint(44.9652418541295,-83.2617639840543))&lt;22285" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "Etheostoma douglasi" ; Times: 8
+	Query: "recordedby:blaney year &gt;= 1967 year &lt;= 1967 month &gt;= 5 month &lt;= 5" ; Times: 4
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Naso unicornis" ; Times: 2
+	Query: "49503" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "fieldnumber:7927" ; Times: 1
+	Query: "175101" ; Times: 3
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "gila intermedia" ; Times: 1
+	Query: "corniger" ; Times: 1
+	Query: "county:&#34;Davie&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "county:&#34;Ashley&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Gila intermedia" ; Times: 1
+	Query: "wolfs" ; Times: 1
+	Query: "172670" ; Times: 1
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "70092" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "lacerta media" ; Times: 2
+	Query: "196696" ; Times: 1
+	Query: "specificepithet:intermedia genus:Gila" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "19696" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "county:&#34;ashley&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "79409" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Bay Minette" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "distance(location,geopoint(37.703859764372,-89.602791061395))&lt;13804" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "Crossocheilus siamensis" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "187212" ; Times: 1
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "137077" ; Times: 1
+	Query: "191915" ; Times: 2
+	Query: "cienega creek county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "56785" ; Times: 1
+	Query: "distance(location,geopoint(37.248560757269,-93.6952372778328))&lt;11263" ; Times: 2
+	Query: "Gila bicolor" ; Times: 4
+	Query: "28940" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "puppy" ; Times: 1
+	Query: "specificepithet:okaloosae year &gt;= 1080" ; Times: 1
+	Query: "156142" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "wild boar" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "Walthall County Mississippi" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "88765" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "distance(location,geopoint(37.161975188785,-93.6952926072649))&lt;11285" ; Times: 2
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "Catenatus oklahoma" ; Times: 3
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "157240" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1169 download events in this period)
+Total number of records downloaded: 1047
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "black bear" ; Times: 4
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "eno river" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "county:&#34;Ashley&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "golden trout" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+
+
+End of report.
