@@ -1,0 +1,156 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 2973
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 85
+	Country: Germany ; Times: 8
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 37
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-25 ; Times: 6
+	Date: 2018-09-26 ; Times: 8
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-21 ; Times: 8
+	Date: 2018-09-17 ; Times: 8
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Double Mountain Fork" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "specificepithet:latipinnis genus:Catostomus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 3
+	Query: "16678" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "116396" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "34893-1" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Danio rerio" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 4
+	Query: "Talismania homoptera" ; Times: 2
+	Query: "cooter" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "117648" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "117617" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "falkner" ; Times: 2
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "Tu 22579" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "117615" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "117622" ; Times: 1
+	Query: "(hollywood beach)" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "noturus munitus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 846 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "river otter" ; Times: 1
+
+
+End of report.
