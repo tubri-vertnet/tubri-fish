@@ -1,0 +1,261 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 1732
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Serbia ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 189
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Venezuela ; Times: 20
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 4
+	Date: 2018-10-04 ; Times: 10
+	Date: 2018-10-23 ; Times: 25
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-02 ; Times: 5
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-05 ; Times: 7
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 6
+	Date: 2018-10-27 ; Times: 3
+	Date: 2018-10-24 ; Times: 20
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 7
+	Date: 2018-10-08 ; Times: 6
+	Date: 2018-10-09 ; Times: 5
+	Date: 2018-10-18 ; Times: 5
+	Date: 2018-10-12 ; Times: 4
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 19
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 11
+	Date: 2018-10-15 ; Times: 80
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "Fundulus diaphanus Chesapeake Bay" ; Times: 1
+	Query: "145612" ; Times: 1
+	Query: "Trinectes maculatus Chesapeake Bay" ; Times: 2
+	Query: "54116" ; Times: 1
+	Query: "Roeboides bouchellei" ; Times: 2
+	Query: "Apeltes quadracus Chesapeake Bay" ; Times: 1
+	Query: "Pseudophallus starksii" ; Times: 1
+	Query: "Microphis mento mappable:1" ; Times: 1
+	Query: "Doryrhamphus excisus excisus" ; Times: 1
+	Query: "Foetorepus goodenbeani mappable:1" ; Times: 1
+	Query: "Fundulus pulvereus Chesapeake Bay" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Cosmocampus elucens mappable:1" ; Times: 1
+	Query: "genus:Catostomus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "75546" ; Times: 1
+	Query: "167947" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "129014" ; Times: 1
+	Query: "Hippocampus zosterae mappable:1" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 3
+	Query: "22838" ; Times: 1
+	Query: "Apristurus laurussonii" ; Times: 1
+	Query: "Cosmocampus albirostris" ; Times: 1
+	Query: "Haplophryne mollis" ; Times: 2
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Cosmocampus elucens" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "&#34;bluff river&#34;" ; Times: 1
+	Query: "catalognumber:179194" ; Times: 1
+	Query: "Cosmocampus brachycephalus mappable:1" ; Times: 1
+	Query: "Hippichthys heptagonus mappable:1" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "specificepithet:macularius genus:cyprinodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "123456" ; Times: 2
+	Query: "Lactophrys triqueter" ; Times: 1
+	Query: "Apristurus parvipinnis" ; Times: 5
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "Gobiosoma bosc Chesapeake Bay" ; Times: 3
+	Query: "Aulostomus maculatus" ; Times: 3
+	Query: "Hippocampus sp. 3 mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "nezumia atlantica" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Hippichthys heptagonus" ; Times: 1
+	Query: "Hippocampus sp. 3" ; Times: 1
+	Query: "Hippocampus sp. 2" ; Times: 1
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "Hippocampus sp. 5" ; Times: 1
+	Query: "149290" ; Times: 2
+	Query: "Foetorepus goodenbeani" ; Times: 1
+	Query: "189392" ; Times: 2
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "A-26050" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "genus:Catostomus county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "fish photographs" ; Times: 1
+	Query: "multipunctata" ; Times: 1
+	Query: "Syngnathus fuscus Chesapeake Bay" ; Times: 3
+	Query: "catalognumber:87573" ; Times: 1
+	Query: "Anarchopterus criniger" ; Times: 1
+	Query: "145505" ; Times: 1
+	Query: "Foetorepus agassizi" ; Times: 1
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Opsanus tau Chesapeake Bay" ; Times: 1
+	Query: "Morone saxatilis Chesapeake Bay" ; Times: 1
+	Query: "catalognumber:179196" ; Times: 1
+	Query: "US 188537" ; Times: 2
+	Query: "louisiana black bear" ; Times: 2
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "institutioncode:TU" ; Times: 1
+	Query: "110998" ; Times: 2
+	Query: "Brevoortia tyrannus Chesapeake Bay" ; Times: 3
+	Query: "Carcharhinus isodon" ; Times: 1
+	Query: "Menidia beryllina Chesapeake Bay" ; Times: 3
+	Query: "Myxocyprinus" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Lactoria fornasini" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "Galeus arae" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 1
+	Query: "Syngnathus californiensis californiensis" ; Times: 1
+	Query: "county:&#34;Taylor&#34; stateprovince:&#34;Georgia&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Microphis mento" ; Times: 1
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Menidia menidia Chesapeake Bay" ; Times: 4
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "genus:Catostomus locality:East Clear Creek county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "145401" ; Times: 2
+	Query: "Bairdiella chrysoura Chesapeake Bay" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 2
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "lates niloticus" ; Times: 1
+	Query: "genus:Catostomus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "Fundulus majalis Chesapeake Bay" ; Times: 1
+	Query: "193266" ; Times: 1
+	Query: "188537" ; Times: 1
+	Query: "Lucania parva Chesapeake Bay" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "Corythoichthys haematopterus" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "155817" ; Times: 2
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Anchoa mitchilli Chesapeake Bay" ; Times: 2
+	Query: "catalognumber:101641" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Anarchopterus criniger mappable:1" ; Times: 1
+	Query: "rock minnesota" ; Times: 1
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "129020" ; Times: 2
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "Hippocampus sp. 1 mappable:1" ; Times: 1
+	Query: "Cosmocampus brachycephalus" ; Times: 1
+	Query: "Phenacogrammus interruptus" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Lactophrys quadricornis mappable:1" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "Hippocampus sp. 5 mappable:1" ; Times: 1
+	Query: "Hippocampus sp. 2 mappable:1" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Fundulus heteroclitus Chesapeake Bay" ; Times: 2
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Balistes carolinensis mappable:1" ; Times: 2
+	Query: "Microphis brachyurus mappable:1" ; Times: 3
+	Query: "Gobiesox strumosus Chesapeake Bay" ; Times: 2
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "catalognumber:121143" ; Times: 2
+	Query: "193344" ; Times: 2
+	Query: "characodon" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Foetorepus agassizi mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1300 download events in this period)
+Total number of records downloaded: 149
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "paulson" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "cojedes" ; Times: 1
+	Query: "fish quintana roo" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
