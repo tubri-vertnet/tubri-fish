@@ -1,0 +1,234 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 1266
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 88
+	Country: United States ; Times: 60
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-19 ; Times: 38
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 9
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 5
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 13
+	Date: 2019-04-03 ; Times: 4
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-05 ; Times: 6
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-26 ; Times: 24
+	Date: 2019-04-27 ; Times: 4
+	Date: 2019-04-02 ; Times: 33
+	Date: 2019-04-25 ; Times: 9
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "100969" ; Times: 1
+	Query: "Macrodon ancylodon mappable:1" ; Times: 2
+	Query: "115761" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "catalognumber:14663 year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "catalognumber:142330" ; Times: 1
+	Query: "119949" ; Times: 1
+	Query: "202194" ; Times: 1
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "beaver dam wash" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "139554" ; Times: 1
+	Query: "catalognumber:493 institutioncode:TU" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "182650" ; Times: 1
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Paralonchurus brasiliensis mappable:1" ; Times: 2
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "135136" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Hemiemblemaria simulus mappable:1" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "137536" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "catalognumber:778 institutioncode:TU" ; Times: 1
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "155796" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "137236" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "catalognumber:8645 institutioncode:TU" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "33461" ; Times: 1
+	Query: "135690" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "Eugerres brasilianus mappable:1" ; Times: 1
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "137546" ; Times: 2
+	Query: "145278" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "115753" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "115755" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "Awaous tajasica mappable:1" ; Times: 2
+	Query: "137246" ; Times: 1
+	Query: "catalognumber:170470" ; Times: 2
+	Query: "Neoclinus uninotatus" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "Emblemaria pandionis mappable:1" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 2
+	Query: "173062" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "specificepithet:Monticola stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "145378" ; Times: 3
+	Query: "30274" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "145372" ; Times: 1
+	Query: "locality:black slough" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "catalognumber:1665 institutioncode:TU" ; Times: 1
+	Query: "192345" ; Times: 1
+	Query: "Emblemaria pandionis" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "30033" ; Times: 2
+	Query: "135099" ; Times: 1
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "141864" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "145380" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "190310" ; Times: 1
+	Query: "Nicholsina denticulata" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "Hemiemblemaria simulus" ; Times: 1
+	Query: "137989" ; Times: 2
+	Query: "175723" ; Times: 1
+	Query: "catalognumber:18292 institutioncode:TU" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "fieldnumber:9913" ; Times: 1
+	Query: "174335" ; Times: 1
+	Query: "174336" ; Times: 1
+	Query: "174337" ; Times: 1
+	Query: "145540" ; Times: 2
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "28459" ; Times: 1
+	Query: "catalognumber:1765 institutioncode:TU" ; Times: 1
+	Query: "Tanichthys albonubes" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "202429" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1263 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;seep&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+	Query: "specificepithet:parva genus:Lucania stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "specificepithet:pandora genus:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+
+End of report.
