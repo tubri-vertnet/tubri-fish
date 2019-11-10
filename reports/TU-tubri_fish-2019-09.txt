@@ -1,0 +1,230 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 1211
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 72
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 1
+	Country: France ; Times: 64
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 47
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 7
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 11
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 5
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 25
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 9
+	Date: 2019-09-04 ; Times: 11
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 3
+	Date: 2019-09-25 ; Times: 14
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "45583" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "Centropristis philadelphicus mappable:1" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 3
+	Query: "114704" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "ablabes" ; Times: 1
+	Query: "Cyprinella callitaenia" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "specimen 187142" ; Times: 1
+	Query: "&#34;Bathyuroconger vicinus&#34;" ; Times: 2
+	Query: "Actinopterygii in monterrey nuevo leon mexico" ; Times: 1
+	Query: "143747" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "115807" ; Times: 1
+	Query: "Aluterus heudeloti mappable:1" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "catalognumber:114518 institutioncode:TU" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "141412" ; Times: 1
+	Query: "145583" ; Times: 1
+	Query: "Serranus notospilus mappable:1" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;monterey&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "187142" ; Times: 3
+	Query: "alosa alabamae" ; Times: 1
+	Query: "Tautogolabrus adspersus mappable:1" ; Times: 1
+	Query: "&#34;Diretmoides pauciradiatus&#34;" ; Times: 2
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Bull Trout" ; Times: 2
+	Query: "specificepithet:episcopa genus:Dionda stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:septemfasciatum" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "Hoplunnis macrura mappable:1" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "Hypsoblennius hentz mappable:1" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "locality:chapala stateprovince:&#34;Jalisco&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Gymnachirus nudus mappable:1" ; Times: 1
+	Query: "catalognumber:114521 institutioncode:TU" ; Times: 1
+	Query: "Urophycis floridanus mappable:1" ; Times: 1
+	Query: "Symphurus urospilus mappable:1" ; Times: 1
+	Query: "Sebastes marinus mappable:1" ; Times: 1
+	Query: "Notropis melanostomus" ; Times: 3
+	Query: "136319" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "specificepithet:ribeiroi genus:bellator" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "Citharichthys dinoceros mappable:1" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Cortijo" ; Times: 1
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "Prionotus longispinosus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:Río pesquería country:&#34;México&#34;" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Bathyuroconger vicinus" ; Times: 1
+	Query: "Prionotus paralatus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:Río ramos country:&#34;México&#34;" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "&#34;Pseudotolithus typus&#34;" ; Times: 2
+	Query: "107488" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "arandas" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Urophycis cirratus mappable:1" ; Times: 1
+	Query: "145589" ; Times: 1
+	Query: "Iotichthys" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "191385" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "145256" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:presa la boca country:&#34;México&#34;" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;DeKalb&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Antigonia combatia mappable:1" ; Times: 1
+	Query: "Paraclinus marmoratus mappable:1" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "Amblyopsis hoosieri" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio ramos country:&#34;México&#34;" ; Times: 14
+	Query: "Synagrops spinosus mappable:1" ; Times: 1
+	Query: "Xyrichtys splendens mappable:1" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "170432" ; Times: 1
+	Query: "Bathyagonus infraspinatus mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Panama&#34; OR &#34;Costa Rica&#34;" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "187549" ; Times: 1
+	Query: "specificepithet:ornatum genus:Campostoma stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "raja eglanteria" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Aspidophoroides monopterygius mappable:1" ; Times: 1
+	Query: "Clupea pallasii pallasii mappable:1" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1073 download events in this period)
+Total number of records downloaded: 252
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+
+
+End of report.
