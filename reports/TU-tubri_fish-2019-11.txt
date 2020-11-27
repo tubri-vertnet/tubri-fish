@@ -1,0 +1,211 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Hong Kong ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 132
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 10
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 38
+	Date: 2019-11-14 ; Times: 11
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-11 ; Times: 11
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-20 ; Times: 8
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 10
+	Date: 2019-11-24 ; Times: 11
+	Date: 2019-11-26 ; Times: 17
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 13
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 8
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "199506" ; Times: 2
+	Query: "153578" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "elops affinis" ; Times: 2
+	Query: "54056" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "80642" ; Times: 1
+	Query: "etmopterus" ; Times: 7
+	Query: "18819" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;michigan&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "specificepithet:gracilis genus:Poeciliopsis" ; Times: 1
+	Query: "109588" ; Times: 1
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "154655" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "Poeciliopsis gracilis" ; Times: 1
+	Query: "175910" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "203751" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+	Query: "microspathodon chrysurus" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "117407" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "154810" ; Times: 1
+	Query: "fieldnumber:4331" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "55422" ; Times: 1
+	Query: "aspidolepis" ; Times: 1
+	Query: "154662" ; Times: 1
+	Query: "166631" ; Times: 1
+	Query: "Sparisoma chrysopterum" ; Times: 1
+	Query: "Barbus niokoloensis" ; Times: 3
+	Query: "54548" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "164712" ; Times: 1
+	Query: "Leuciscus rutilus" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "180927" ; Times: 1
+	Query: "106469" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "romeri" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "154164" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "10918" ; Times: 2
+	Query: "D. McLeod" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "(139478)" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "161009" ; Times: 1
+	Query: "Acrocheilus alutaceus" ; Times: 2
+	Query: "53454" ; Times: 1
+	Query: "154612" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "catalognumber:203485" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "echidna zebra" ; Times: 4
+	Query: "35568" ; Times: 1
+	Query: "Lophiodes caulinaris" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; institutioncode:TU" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "120005" ; Times: 1
+	Query: "Lythrurus lirus" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio ramos country:&#34;México&#34;" ; Times: 2
+	Query: "54466" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; AND (NOT CUMV NOT NCSM NOT AUM NOT KU)" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;sonoma&#34;" ; Times: 10
+	Query: "115820" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &lt;= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1367 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
