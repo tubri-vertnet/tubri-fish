@@ -1,0 +1,354 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 324
+Number of records retrieved in searches: 1124
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 276
+	Country: Australia ; Times: 7
+	Country: Cuba ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Venezuela ; Times: 4
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 35
+	Date: 2020-03-02 ; Times: 15
+	Date: 2020-03-18 ; Times: 12
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-16 ; Times: 9
+	Date: 2020-03-09 ; Times: 16
+	Date: 2020-03-15 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 5
+	Date: 2020-03-10 ; Times: 17
+	Date: 2020-03-11 ; Times: 13
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-27 ; Times: 6
+	Date: 2020-03-26 ; Times: 7
+	Date: 2020-03-25 ; Times: 16
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 18
+	Date: 2020-03-22 ; Times: 16
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 31
+	Date: 2020-03-05 ; Times: 6
+	Date: 2020-03-04 ; Times: 13
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-06 ; Times: 8
+	Date: 2020-03-03 ; Times: 17
+	Date: 2020-03-28 ; Times: 47
+
+List of queries that retrieved data from the resource: 
+	Query: "141496" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "Scarus coelestinus mappable:1" ; Times: 1
+	Query: "153573" ; Times: 1
+	Query: "180204" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "catalognumber:163269" ; Times: 2
+	Query: "154497" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "167705" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "(200729)" ; Times: 1
+	Query: "scientificname:(Etheostoma tennesseense) country:United States mappable:1" ; Times: 1
+	Query: "188645" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "Craterocephalus nouhuysi mappable:1" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "141793" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "159534" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "160951" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "Trichopsetta ventralis" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "191664" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "catalognumber:112551" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "120125" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "specificepithet:diabolis" ; Times: 1
+	Query: "tk institutioncode:TU" ; Times: 1
+	Query: "prionotus alatus" ; Times: 1
+	Query: "159832" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "165054" ; Times: 2
+	Query: "107116" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 14
+	Query: "107114" ; Times: 1
+	Query: "Melanotaenia goldiei mappable:1" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "catalognumber:163256" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "152808" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "176527" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "183797" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "179541" ; Times: 1
+	Query: "162520" ; Times: 1
+	Query: "109988" ; Times: 1
+	Query: "101701" ; Times: 2
+	Query: "(46173)" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 5
+	Query: "oil rigs" ; Times: 1
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "116305" ; Times: 1
+	Query: "120849" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Chapalichthys" ; Times: 3
+	Query: "113681" ; Times: 1
+	Query: "Percina lenticula" ; Times: 1
+	Query: "lates calcarifer" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "106816" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 2
+	Query: "120271" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "macrhybopsis gelida" ; Times: 2
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "139482" ; Times: 1
+	Query: "139485" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "192084" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "128296" ; Times: 1
+	Query: "Macrhybopsis marconis" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "127286" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "128354" ; Times: 1
+	Query: "154687" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "Macrhybopsis australis" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "128298" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "Melanotaenia splendida rubrostriata mappable:1" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "V 1132" ; Times: 1
+	Query: "chondrostoma nasus" ; Times: 2
+	Query: "58767" ; Times: 1
+	Query: "Macrhybopsis meeki" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "178304" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "143946" ; Times: 1
+	Query: "Craterocephalus randi mappable:1" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "97922" ; Times: 1
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "128468" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "(16380)" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "128792" ; Times: 1
+	Query: "177115" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;monterey&#34;" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "Melanotaenia exquisita mappable:1" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "catalognumber:202796" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "159573" ; Times: 1
+	Query: "149025" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "156088" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "123889" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "128920" ; Times: 1
+	Query: "Melanotaenia splendida inornata mappable:1" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "172118" ; Times: 2
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "(49096)" ; Times: 4
+	Query: "115522" ; Times: 1
+	Query: "134928" ; Times: 1
+	Query: "118930" ; Times: 1
+	Query: "scientificname:(Etheostoma planasaxatile) country:United States mappable:1" ; Times: 1
+	Query: "151344" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 4
+	Query: "159506" ; Times: 1
+	Query: "Craterocephalus marianae mappable:1" ; Times: 1
+	Query: "188646" ; Times: 1
+	Query: "129118" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "LAcerta media" ; Times: 1
+	Query: "156080" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "192730" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "151528" ; Times: 1
+	Query: "Etheostoma ditrema" ; Times: 3
+	Query: "143571" ; Times: 1
+	Query: "140357" ; Times: 1
+	Query: "120152" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "151107" ; Times: 1
+	Query: "157299" ; Times: 1
+	Query: "128339" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "67524" ; Times: 1
+	Query: "112121" ; Times: 1
+	Query: "90583" ; Times: 1
+	Query: "(202384)" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "145302" ; Times: 1
+	Query: "Melanotaenia australis mappable:1" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+	Query: "159824" ; Times: 1
+	Query: "159826" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "RDS 7781" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "174639" ; Times: 1
+	Query: "111297" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "174637" ; Times: 1
+	Query: "128439" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "112331" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "143678" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "119493" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "128705" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "130291" ; Times: 1
+	Query: "hippocampus reidi" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "scientificname:(Etheostoma orientale) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "156339" ; Times: 1
+	Query: "Craterocephalus stercusmuscarum mappable:1" ; Times: 1
+	Query: "176478" ; Times: 2
+	Query: "89688" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "chromobotia" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "catalognumber:163272" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "172725" ; Times: 1
+	Query: "class:elasmobranchii locality:Gulf of Mexico institutioncode:TU" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "129120" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "168780" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "88872" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "128542" ; Times: 1
+	Query: "38031" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 853 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Taiwan ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "LAcerta media" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Gambusia yucatana" ; Times: 1
+
+
+End of report.
