@@ -1,0 +1,321 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 378
+Number of records retrieved in searches: 2135
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 101
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 131
+	Country: Honduras ; Times: 16
+	Country: Peru ; Times: 33
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 13
+	Country: France ; Times: 25
+	Country: United Kingdom ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 7
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 5
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 15
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 4
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 131
+	Date: 2020-08-12 ; Times: 11
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-19 ; Times: 30
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-01 ; Times: 3
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 5
+	Date: 2020-08-05 ; Times: 7
+	Date: 2020-08-28 ; Times: 10
+	Date: 2020-08-07 ; Times: 17
+	Date: 2020-08-26 ; Times: 12
+	Date: 2020-08-27 ; Times: 11
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 4
+	Date: 2020-08-22 ; Times: 6
+	Date: 2020-08-23 ; Times: 4
+	Date: 2020-08-20 ; Times: 39
+	Date: 2020-08-21 ; Times: 55
+
+List of queries that retrieved data from the resource: 
+	Query: "134043" ; Times: 1
+	Query: "institutioncode:tu" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "133795" ; Times: 6
+	Query: "134125" ; Times: 1
+	Query: "115232" ; Times: 1
+	Query: "Roeboides bouchellei" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 1
+	Query: "Anableps dowei HOnduras" ; Times: 1
+	Query: "Brama dussumieri" ; Times: 1
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "Petrocephalus bovei" ; Times: 1
+	Query: "Acanthemblemaria spinosa" ; Times: 2
+	Query: "Cottus beldingi stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "117272" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "107663" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 47
+	Query: "101565" ; Times: 1
+	Query: "Cottus princeps stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Anableps dowei Honduras" ; Times: 1
+	Query: "135125" ; Times: 6
+	Query: "catalognumber:202728" ; Times: 1
+	Query: "Cottus aleuticus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "Cottus marginatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "scartelaos" ; Times: 1
+	Query: "133904" ; Times: 2
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "133593" ; Times: 2
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "133825" ; Times: 4
+	Query: "133824" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "133498" ; Times: 2
+	Query: "133786" ; Times: 2
+	Query: "133495" ; Times: 2
+	Query: "Awaous banana" ; Times: 1
+	Query: "133497" ; Times: 2
+	Query: "134326" ; Times: 2
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Scartelaos" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "133657" ; Times: 7
+	Query: "71370" ; Times: 2
+	Query: "133652" ; Times: 3
+	Query: "133653" ; Times: 2
+	Query: "Ameiurus serracanthus" ; Times: 1
+	Query: "162720" ; Times: 1
+	Query: "179254" ; Times: 1
+	Query: "162725" ; Times: 1
+	Query: "institutioncode:TU" ; Times: 2
+	Query: "Clupea harengus" ; Times: 5
+	Query: "35358" ; Times: 1
+	Query: "Cyprinodon rubrofluviatilis" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "traits" ; Times: 1
+	Query: "107626" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "Lethrinops lethrinus" ; Times: 1
+	Query: "107622" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "133810" ; Times: 1
+	Query: "133788" ; Times: 4
+	Query: "133540" ; Times: 2
+	Query: "133787" ; Times: 2
+	Query: "133487" ; Times: 2
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "71376" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "133599" ; Times: 2
+	Query: "Hyphessobrycon tortuguerae" ; Times: 2
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "133377" ; Times: 2
+	Query: "107388" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 1
+	Query: "Porichthys bathoiketes" ; Times: 1
+	Query: "Cottus asper stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "Fundulus zebrinus (Red River)" ; Times: 1
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "70387" ; Times: 1
+	Query: "Caranx bartholomaei" ; Times: 1
+	Query: "133805" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "133800" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "69660" ; Times: 1
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "county:&#34;roanoke&#34; stateprovince:&#34;virginia&#34; (starkey)" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "143491" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "Leptocottus armatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "133690" ; Times: 1
+	Query: "133691" ; Times: 1
+	Query: "Ogilbia ventralis" ; Times: 1
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "25785" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "Fundulus zebrinus (Brazos)" ; Times: 1
+	Query: "fieldnumber:11940" ; Times: 1
+	Query: "133878" ; Times: 2
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "107643" ; Times: 2
+	Query: "133520" ; Times: 3
+	Query: "133876" ; Times: 2
+	Query: "133877" ; Times: 2
+	Query: "133874" ; Times: 2
+	Query: "141528" ; Times: 1
+	Query: "134371" ; Times: 2
+	Query: "28881" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "139918" ; Times: 1
+	Query: "133680" ; Times: 1
+	Query: "107797" ; Times: 2
+	Query: "127745" ; Times: 3
+	Query: "107791" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "134336" ; Times: 3
+	Query: "Pollachius virens" ; Times: 2
+	Query: "genus:Periophthalmodon" ; Times: 1
+	Query: "Ariomma bondi" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "133925" ; Times: 1
+	Query: "133906" ; Times: 2
+	Query: "133907" ; Times: 1
+	Query: "133759" ; Times: 2
+	Query: "characodon lateralis" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "133861" ; Times: 2
+	Query: "166358" ; Times: 2
+	Query: "133618" ; Times: 2
+	Query: "133862" ; Times: 2
+	Query: "133867" ; Times: 1
+	Query: "133705" ; Times: 1
+	Query: "133598" ; Times: 2
+	Query: "133857" ; Times: 1
+	Query: "170489" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "196694" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis (texas)" ; Times: 2
+	Query: "107783" ; Times: 1
+	Query: "133846" ; Times: 2
+	Query: "Noturus taylori" ; Times: 1
+	Query: "107787" ; Times: 1
+	Query: "Fundulus zebrinus (pecos) AND (texas)" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "133852" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "Fundulus zebrinus (REd )" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "133601" ; Times: 2
+	Query: "133600" ; Times: 2
+	Query: "107662" ; Times: 1
+	Query: "133909" ; Times: 3
+	Query: "133911" ; Times: 1
+	Query: "134314" ; Times: 5
+	Query: "107593" ; Times: 1
+	Query: "Brycinus imberi" ; Times: 1
+	Query: "Argyropelecus aculeatus" ; Times: 1
+	Query: "135140" ; Times: 1
+	Query: "125099" ; Times: 2
+	Query: "scientificname:(Fundulus rathbuni) country:United States mappable:1" ; Times: 1
+	Query: "Cottus confusus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "133522" ; Times: 1
+	Query: "133523" ; Times: 2
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "107589" ; Times: 2
+	Query: "133782" ; Times: 2
+	Query: "133682" ; Times: 1
+	Query: "Bathycongrus dubius" ; Times: 1
+	Query: "Cottus gulosus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "fieldnumber:6205" ; Times: 1
+	Query: "Brienomyrus brachyistius" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "133789" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "147299" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Pseudophallus starksi" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "133815" ; Times: 1
+	Query: "Anableps dowei" ; Times: 1
+	Query: "133751" ; Times: 1
+	Query: "133924" ; Times: 5
+	Query: "Ballerus ballerus" ; Times: 1
+	Query: "162203" ; Times: 1
+	Query: "162202" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "133590" ; Times: 2
+	Query: "134130" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "125180" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "Fundulus zebrinus (Brazos )" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 756 download events in this period)
+Total number of records downloaded: 158
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Norway ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
