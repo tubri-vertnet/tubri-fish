@@ -1,0 +1,225 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 951
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 83
+	Country: United States ; Times: 37
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 10
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 6
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 4
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 20
+	Date: 2020-09-17 ; Times: 30
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 8
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "Megalops atlanticus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "Hygophum benoiti" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Hymenocephalus italicus" ; Times: 1
+	Query: "catalognumber: 186941" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Aulopus filamentosus" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "Seriola fasciata" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Cheilopogon furcatus" ; Times: 1
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "locality:Union hidalgo country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "Halosaurus ovenii" ; Times: 1
+	Query: "Etheostoma segrex" ; Times: 1
+	Query: "181804" ; Times: 1
+	Query: "139095" ; Times: 1
+	Query: "Iotichthys phlegethontis" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "169738" ; Times: 1
+	Query: "93142" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "Megalops atlanticus country:&#34;United States&#34;" ; Times: 2
+	Query: "87306" ; Times: 3
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Gadella maraldi" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "Sargocentron rubrum" ; Times: 1
+	Query: "149295" ; Times: 2
+	Query: "16892" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Exocoetus obtusirostris" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "134990" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Nettastoma melanurum" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "specificepithet:ribeiroi genus:bellator" ; Times: 1
+	Query: "Spratelloides delicatulus" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "112340" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "Sphoeroides marmoratus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "126183" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "Zenopsis conchifer" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "95835" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "142864" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "Cubiceps capensis" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "193557" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Umbrina ronchus" ; Times: 1
+	Query: "horseshoe c" ; Times: 1
+	Query: "valle de zaragoza" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 1
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Poecilia heterandria" ; Times: 1
+	Query: "recordedby:Stansbury" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Hoplostethus mediterraneus" ; Times: 1
+	Query: "197262" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "Valenciennellus tripunctulatus" ; Times: 1
+	Query: "Muraenesox cinereus" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Etheostoma pottsi" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "Nezumia sclerorhynchus" ; Times: 1
+	Query: "Bathypterois grallator" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Phycis phycis" ; Times: 1
+	Query: "Lagocephalus spadiceus" ; Times: 1
+	Query: "scientificname:Trachurus murphyi" ; Times: 1
+	Query: "catenatus Missouri" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Lasiancistrus caucanus" ; Times: 1
+	Query: "Acipenser sturio" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "174933" ; Times: 1
+	Query: "Centrophorus uyato" ; Times: 1
+	Query: "Umbrina canariensis" ; Times: 1
+	Query: "99661" ; Times: 1
+	Query: "Nezumia aequalis" ; Times: 1
+	Query: "174938" ; Times: 2
+	Query: "Stephanolepis diaspros" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "catalognumber:163664" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "catalognumber:193664" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 976 download events in this period)
+Total number of records downloaded: 5372
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Poecilia heterandria" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+
+
+End of report.
