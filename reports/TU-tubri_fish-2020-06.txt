@@ -1,0 +1,210 @@
+Report for Institution Code TU, Resource tubri_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 556
+Number of records retrieved in searches: 7577
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 40
+	Country: Singapore ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 468
+	Country: Peru ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-19 ; Times: 4
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 10
+	Date: 2020-06-06 ; Times: 6
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 30
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-15 ; Times: 77
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 169
+	Date: 2020-06-11 ; Times: 165
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-17 ; Times: 62
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "Salmo trutta" ; Times: 9
+	Query: "scientificname:(Agonostomus monticola) country:United States mappable:1" ; Times: 2
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "37841" ; Times: 1
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "59011" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Pangio anguillaris" ; Times: 6
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "Epalzeorhynchos munense" ; Times: 6
+	Query: "Abramis brama" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scientificname:(Notropis oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "onigocia macrolepis" ; Times: 1
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "Cottus asper" ; Times: 6
+	Query: "Ictalurus pricei" ; Times: 6
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "100499" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "Taenioides anguillaris" ; Times: 6
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Arius arius" ; Times: 12
+	Query: "racoon" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "Pseudostegophilus nemurus" ; Times: 2
+	Query: "RT 286" ; Times: 2
+	Query: "RT 287" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "V-1132" ; Times: 1
+	Query: "Gobiomorus maculatus" ; Times: 2
+	Query: "percophis brasiliensis" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "pterois miles" ; Times: 1
+	Query: "Barbonymus schwanenfeldii" ; Times: 6
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Aequidens patricki" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Oligolepis acutipennis" ; Times: 3
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "Eleotris picta" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Etheostoma vulneratum" ; Times: 1
+	Query: "Cottus ricei" ; Times: 6
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "etheostoma vulneratum" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "Cottus perplexus" ; Times: 6
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "otolithes ruber" ; Times: 1
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "RT 318" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "catalognumber: 196268" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "Puntius semifasciolatus" ; Times: 6
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Setipinna tenuifilis" ; Times: 6
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Ictalurus cf. pricei" ; Times: 6
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber: 147946" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 474 download events in this period)
+Total number of records downloaded: 161
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "locality:kentucky" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
